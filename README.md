@@ -82,4 +82,4 @@ The aim is to support real estate planning and investment decisions by:
 
 **Shreeyans Karki**  
 Aspiring Data Scientist | Melbourne, Australia  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)  
+[LinkedIn](https://www.linkedin.com/in/shreeyans-karki-2a4000267/) | [GitHub](https://github.com/FangerL)  
